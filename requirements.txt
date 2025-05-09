@@ -1,0 +1,6 @@
+langchain_community
+langchain
+streamlit
+cohere
+numexpr
+google-search-results
